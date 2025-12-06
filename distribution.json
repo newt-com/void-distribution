@@ -30,7 +30,19 @@
                         "size": 2107873,
                         "MD5": "a43d5a142246801343b6cedef1c102c4",
                         "url": "https://newt-com.github.io/void-distribution/mods/fabric-api-0.92.6+1.20.1.jar"
-                    }
+                    },
+                    "subModules": [
+                        {
+                            "id": "1.20.1-fabric-0.18.1",
+                            "name": "Fabric (version.json)",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 2847,
+                                "MD5": "6052ebb6acbba734c83fd3a09e67d31e",
+                                "url": "https://newt-com.github.io/void-distribution/versions/1.20.1-fabric-0.18.1.json"
+                            }
+                        }
+                    ]
                 }
             ]
         }
