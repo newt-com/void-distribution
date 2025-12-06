@@ -108,6 +108,16 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "com.github.hexomod:worldedit-mod-7.2.15",
+                    "name": "WorldEdit",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 5689,
+                        "MD5": "439f82b69f3464969163c188818c677d",
+                        "url": "https://newt-com.github.io/void-distribution/mods/worldedit-mod-7.2.15.jar"
+                    }
                 }
             ]
         }
