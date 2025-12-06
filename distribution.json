@@ -108,6 +108,16 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "com.github.newt:entity_model_features_1.20.1-fabric-3.0.7",
+                    "name": "EntityModelFeatures",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 465,
+                        "MD5": "439f82b69f3464969163c188818c677e",
+                        "url": "https://newt-com.github.io/void-distribution/mods/entity_model_features_1.20.1-fabric-3.0.7.jar"
+                    }
                 }
             ]
         }
