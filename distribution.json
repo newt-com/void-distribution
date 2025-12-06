@@ -12,7 +12,7 @@
             "description": "VOID Server",
             "icon": "https://www.svgrepo.com/show/358843/damage-void.svg",
             "version": "1.0.0",
-            "address": "localhost:25565",
+            "address": "localhost",
             "minecraftVersion": "1.20.1",
             "mainServer": true,
             "autoconnect": true,
