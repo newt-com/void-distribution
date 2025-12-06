@@ -23,13 +23,14 @@
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "fabric",
-                    "type": "modloader",
-                    "version": "0.18.1"
-                },
-                {
-                    "type": "manifest",
-                    "path": "VOID/manifest.json"
+                    "id": "net.fabricmc:fabric-loader:0.18.1",
+                    "name": "Fabric (fabric-loader)",
+                    "type": "Fabric",
+                    "artifact": {
+                        "size": 1196222,
+                        "MD5": "a43d5a142246801343b6cedef1c102c4",
+                        "url": "https://newt-com.github.io/void-distribution/mods/fabric-api-0.92.6+1.20.1.jar"
+                    }
                 }
             ]
         }
