@@ -1,0 +1,35 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "12334567890123456789",
+        "smallImageText": "WesterosCraft",
+        "smallImageKey": "seal-circle"
+    },
+    "rss": "https://westeroscraft.com/articles/index.rss",
+    "servers": [
+        {
+            "id": "VOID",
+            "name": "VOID",
+            "description": "VOID Server",
+            "icon": "https://www.svgrepo.com/show/358843/damage-void.svg",
+            "version": "1.0.0",
+            "address": "localhost:25565",
+            "minecraftVersion": "1.20.1",
+            "discord": {
+                "shortId": "Example",
+                "largeImageText": "WesterosCraft Example Server",
+                "largeImageKey": "server-example"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "name": "fabric-api",
+                    "id": "fabric",
+                    "sha1": "3ec0a88b64f252257df6287e9a1d47ed96331e5d",
+                    "path": "mods/fabric-api-0.92.6+1.20.1.jar"
+                }
+            ]
+        }
+    ]
+}
