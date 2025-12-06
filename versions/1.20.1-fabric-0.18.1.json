@@ -1,0 +1,45 @@
+{
+  "id": "1.20.1-fabric-0.18.1",
+  "inheritsFrom": "1.20.1",
+  "time": "2023-06-12T00:00:00+00:00",
+  "releaseTime": "2023-06-12T00:00:00+00:00",
+  "type": "release",
+  "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+  "arguments": {
+    "game": []
+  },
+  "libraries": [
+    {
+      "name": "net.fabricmc:fabric-loader:0.18.1",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "net.fabricmc:intermediary:1.20.1",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm:9.6",
+      "url": "https://repo1.maven.org/maven2/"
+    },
+    {
+      "name": "org.ow2.asm:asm-analysis:9.6",
+      "url": "https://repo1.maven.org/maven2/"
+    },
+    {
+      "name": "org.ow2.asm:asm-commons:9.6",
+      "url": "https://repo1.maven.org/maven2/"
+    },
+    {
+      "name": "org.ow2.asm:asm-tree:9.6",
+      "url": "https://repo1.maven.org/maven2/"
+    },
+    {
+      "name": "org.ow2.asm:asm-util:9.6",
+      "url": "https://repo1.maven.org/maven2/"
+    }
+  ]
+}
