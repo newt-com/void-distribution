@@ -158,6 +158,26 @@
                         "MD5": "439f82b69f3464969163c188818c677h",
                         "url": "https://newt-com.github.io/void-distribution/mods/CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar"
                     }
+                },
+                {
+                    "id": "com.github.newt:iris-1.7.6+mc1.20.1",
+                    "name": "Iris",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2726899,
+                        "MD5": "45577adb5ab16505572c6ea4b1006e58",
+                        "url": "https://newt-com.github.io/void-distribution/mods/iris-1.7.6+mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:GeckoLibIrisCompat-Fabric-1.0.0",
+                    "name": "Gecko Lib Iris Compat",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 6202,
+                        "MD5": "85f182bac71775e7ca47216f33523bc3",
+                        "url": "https://newt-com.github.io/void-distribution/mods/GeckoLibIrisCompat-Fabric-1.0.0.jar"
+                    }
                 }
             ]
         }
