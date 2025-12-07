@@ -51,13 +51,13 @@
                             }
                         },
                         {
-                            "id": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
+                            "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
                             "name": "Sponge Mixin",
                             "type": "Library",
                             "artifact": {
-                                "size": 1451874,
-                                "MD5": "4cc3ff559cafdc70d9ed80e869d447f0",
-                                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar"
+                                "size": 1504519,
+                                "MD5": "798c8c25fb84d91b384bdee442c249d7",
+                                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
                             }
                         },
                         {
