@@ -34,7 +34,8 @@
                             "artifact": {
                                 "size": 1791406,
                                 "MD5": "73eac5d017a268ea8175c2025c2863ad",
-                                "url": "https://newt-com.github.io/void-distribution/shaders/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+                                "url": "https://newt-com.github.io/void-distribution/shaders/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+                                "path": "shaders/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
                             }
                         },
                         {
