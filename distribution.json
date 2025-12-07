@@ -293,7 +293,47 @@
                     "artifact": {
                         "size": 1016063,
                         "MD5": "d180631d4db7588393f1d0c280593bc3",
-                        "url": "https://newt-com.github.io/void-distribution/mods/sodiumextras-fabric-1.0.7-1.20.1.jar"
+                        "url": "https://newt-com.github.io/void-distribution/mods/continuity-3.0.0+1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:DistantHorizons-2.3.6-b-1.20.1-fabric-forge",
+                    "name": "Horizons",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 25362721,
+                        "MD5": "6dc56520b57c27f1c4cf3b5026130ca2",
+                        "url": "https://newt-com.github.io/void-distribution/mods/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:ImmediatelyFast-Fabric-1.5.2+1.20.4",
+                    "name": "ImmediatelyFast",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 242651,
+                        "MD5": "e5b2f5311044503a61e51b3cd2987962",
+                        "url": "https://newt-com.github.io/void-distribution/mods/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:indium-1.0.36+mc1.20.1",
+                    "name": "Indium",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 105382,
+                        "MD5": "21cefdaa742e1f31ded4f85f55a0f41c",
+                        "url": "https://newt-com.github.io/void-distribution/mods/indium-1.0.36+mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:ZZ.JJThunder_To_The_Max_1.20.1_v0.2.0",
+                    "name": "Indium",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 108390,
+                        "MD5": "6b8a2a5958377b65f9140243dfb458b1",
+                        "url": "https://newt-com.github.io/void-distribution/mods/ZZ.JJThunder_To_The_Max_1.20.1_v0.2.0.jar"
                     }
                 }
             ]
