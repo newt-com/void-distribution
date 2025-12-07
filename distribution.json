@@ -132,6 +132,17 @@
                     }
                 },
                 {
+                    "id": "com.github.newt:-1.21.2 Fresh Moves v3.1 (With Animated Eyes)",
+                    "name": "Fresh Moves",
+                    "type": "File",
+                    "artifact": {
+                        "size": 321871,
+                        "MD5": "9425263fea042911f13a1482f4c3f436",
+                        "url": "https://newt-com.github.io/void-distribution/resourcespacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+                        "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+                    }
+                },
+                {
                     "id": "com.github.newt:fabric-api-0.92.6+1.20.1",
                     "name": "Fabric API",
                     "type": "FabricMod",
@@ -228,6 +239,16 @@
                     "artifact": {
                         "size": 630468,
                         "MD5": "2a4783798a52fe22c5f6476fc65c0ff1",
+                        "url": "https://newt-com.github.io/void-distribution/mods/sodiumextras-fabric-1.0.7-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:continuity-3.0.0+1.20.1",
+                    "name": "Continuity",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1016063,
+                        "MD5": "d180631d4db7588393f1d0c280593bc3",
                         "url": "https://newt-com.github.io/void-distribution/mods/sodiumextras-fabric-1.0.7-1.20.1.jar"
                     }
                 }
