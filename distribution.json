@@ -137,9 +137,20 @@
                     "type": "File",
                     "artifact": {
                         "size": 321871,
-                        "MD5": "9425263fea042911f13a1482f4c3f436",
-                        "url": "https://newt-com.github.io/void-distribution/resourcespacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
-                        "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+                        "MD5": "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7",
+                        "url": "https://github.com/newt-com/void-distribution/releases/download/testing/-1.21.2.Fresh.Moves.v3.1.With.Animated.Eyes.zip",
+                        "path": "resourcepacks/FreshMoves.zip"
+                    }
+                },
+                {
+                    "id": "com.github.newt:FreshAnimations_v1.10.2",
+                    "name": "Fresh Animations",
+                    "type": "File",
+                    "artifact": {
+                        "size": 321871,
+                        "MD5": "sha256:058437b9aadaf8d985088614a5556d64b21f2041a320b6aad9ed4c5019fc24b0",
+                        "url": "https://github.com/newt-com/void-distribution/releases/download/testing/FreshAnimations_v1.10.2.zip",
+                        "path": "resourcepacks/FreshAnimations.zip"
                     }
                 },
                 {
