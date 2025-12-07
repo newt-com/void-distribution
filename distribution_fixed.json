@@ -16,6 +16,9 @@
             "minecraftVersion": "1.20.1",
             "mainServer": true,
             "autoconnect": true,
+            "javaOptions": {
+                "suggestedMajor": 21
+            },
             "modules": [
                 {
                     "id": "net.fabricmc:fabric-loader:0.18.1",
@@ -108,77 +111,6 @@
                             }
                         }
                     ]
-                },
-                {
-                    "id": "com.github.newt:Bliss_v2.1.2_(Chocapic13_Shaders_edit)",
-                    "name": "Bliss",
-                    "type": "File",
-                    "artifact": {
-                        "size": 1791406,
-                        "MD5": "73eac5d017a268ea8175c2025c2863ad",
-                        "url": "https://newt-com.github.io/void-distribution/shaders/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
-                        "path": "shaders/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
-                    }
-                },
-                {
-                    "id": "com.github.newt:-1.21.2 Fresh Moves v3.1 (With Animated Eyes)",
-                    "name": "Fresh Moves",
-                    "type": "File",
-                    "artifact": {
-                        "size": 321871,
-                        "MD5": "9425263fea042911f13a1482f4c3f436",
-                        "url": "https://newt-com.github.io/void-distribution/resourcespacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
-                    }
-                },
-                {
-                    "id": "com.github.newt:Better Animals - Heycronus",
-                    "name": "Better Animals",
-                    "type": "File",
-                    "artifact": {
-                        "size": 459074,
-                        "MD5": "0acb9b2739fb4954eb32ddfd74437824",
-                        "url": "https://newt-com.github.io/void-distribution/resourcespacks/Better Animals - Heycronus.zip"
-                    }
-                },
-                {
-                    "id": "com.github.newt:Enhanced Audio Ambience r1",
-                    "name": "Enhanced Audio Ambience",
-                    "type": "File",
-                    "artifact": {
-                        "size": 4134425,
-                        "MD5": "13a5d4cf2528c1f268053f93bc891185",
-                        "url": "https://newt-com.github.io/void-distribution/resourcespacks/Enhanced Audio Ambience r1.zip"
-                    }
-                },
-                {
-                    "id": "com.github.newt:Enhanced Audio r6",
-                    "name": "Enhanced Audio",
-                    "type": "File",
-                    "artifact": {
-                        "size": 9307892,
-                        "MD5": "3cd819a6e6768b00a08c1cfb0a94147c",
-                        "url": "https://newt-com.github.io/void-distribution/resourcespacks/Enhanced Audio r6.zip"
-                    }
-                },
-                {
-                    "id": "com.github.newt:FreshAnimations_v1.10.2",
-                    "name": "Fresh Animations",
-                    "type": "File",
-                    "artifact": {
-                        "size": 834451,
-                        "MD5": "e32132024fbe765a7c90b30dd459d0bc",
-                        "url": "https://newt-com.github.io/void-distribution/resourcespacks/FreshAnimations_v1.10.2.zip"
-                    }
-                },
-                {
-                    "id": "com.github.newt:Patrix_1.20_32x_basic",
-                    "name": "Patrix 32x",
-                    "type": "File",
-                    "artifact": {
-                        "size": 53321921,
-                        "MD5": "3d81842857549a885ffceeb2114eed74",
-                        "url": "https://newt-com.github.io/void-distribution/resourcespacks/Patrix_1.20_32x_basic.zip"
-                    }
                 },
                 {
                     "id": "com.github.newt:fabric-api-0.92.6+1.20.1",
@@ -278,6 +210,83 @@
                         "size": 630468,
                         "MD5": "2a4783798a52fe22c5f6476fc65c0ff1",
                         "url": "https://newt-com.github.io/void-distribution/mods/sodiumextras-fabric-1.0.7-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:Bliss_v2.1.2",
+                    "name": "Bliss Shader",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1791406,
+                        "MD5": "73eac5d017a268ea8175c2025c2863ad",
+                        "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+                        "url": "https://newt-com.github.io/void-distribution/shaders/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+                    }
+                },
+                {
+                    "id": "com.github.newt:FreshMoves_v3.1",
+                    "name": "Fresh Moves Resource Pack",
+                    "type": "File",
+                    "artifact": {
+                        "size": 321871,
+                        "MD5": "9425263fea042911f13a1482f4c3f436",
+                        "path": "resourcepacks/Fresh_Moves_v3.1.zip",
+                        "url": "https://newt-com.github.io/void-distribution/resourcepacks/Fresh_Moves_v3.1.zip"
+                    }
+                },
+                {
+                    "id": "com.github.newt:BetterAnimals_Heycronus",
+                    "name": "Better Animals Resource Pack",
+                    "type": "File",
+                    "artifact": {
+                        "size": 459074,
+                        "MD5": "0acb9b2739fb4954eb32ddfd74437824",
+                        "path": "resourcepacks/Better_Animals_Heycronus.zip",
+                        "url": "https://newt-com.github.io/void-distribution/resourcepacks/Better_Animals_Heycronus.zip"
+                    }
+                },
+                {
+                    "id": "com.github.newt:EnhancedAudioAmbience_r1",
+                    "name": "Enhanced Audio Ambience",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4134425,
+                        "MD5": "13a5d4cf2528c1f268053f93bc891185",
+                        "path": "resourcepacks/Enhanced_Audio_Ambience_r1.zip",
+                        "url": "https://newt-com.github.io/void-distribution/resourcepacks/Enhanced_Audio_Ambience_r1.zip"
+                    }
+                },
+                {
+                    "id": "com.github.newt:EnhancedAudio_r6",
+                    "name": "Enhanced Audio",
+                    "type": "File",
+                    "artifact": {
+                        "size": 9307892,
+                        "MD5": "3cd819a6e6768b00a08c1cfb0a94147c",
+                        "path": "resourcepacks/Enhanced_Audio_r6.zip",
+                        "url": "https://newt-com.github.io/void-distribution/resourcepacks/Enhanced_Audio_r6.zip"
+                    }
+                },
+                {
+                    "id": "com.github.newt:FreshAnimations_v1.10.2",
+                    "name": "Fresh Animations",
+                    "type": "File",
+                    "artifact": {
+                        "size": 834451,
+                        "MD5": "e32132024fbe765a7c90b30dd459d0bc",
+                        "path": "resourcepacks/Fresh_Animations_v1.10.2.zip",
+                        "url": "https://newt-com.github.io/void-distribution/resourcepacks/Fresh_Animations_v1.10.2.zip"
+                    }
+                },
+                {
+                    "id": "com.github.newt:Patrix_1.20_32x",
+                    "name": "Patrix 32x Texture Pack",
+                    "type": "File",
+                    "artifact": {
+                        "size": 53321921,
+                        "MD5": "3d81842857549a885ffceeb2114eed74",
+                        "path": "resourcepacks/Patrix_1.20_32x_basic.zip",
+                        "url": "https://newt-com.github.io/void-distribution/resourcepacks/Patrix_1.20_32x_basic.zip"
                     }
                 }
             ]
