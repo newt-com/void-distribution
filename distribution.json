@@ -325,16 +325,6 @@
                         "MD5": "21cefdaa742e1f31ded4f85f55a0f41c",
                         "url": "https://newt-com.github.io/void-distribution/mods/indium-1.0.36+mc1.20.1.jar"
                     }
-                },
-                {
-                    "id": "com.github.newt:ZZ.JJThunder_To_The_Max_1.20.1_v0.2.0",
-                    "name": "JJThunder",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 108390,
-                        "MD5": "6b8a2a5958377b65f9140243dfb458b1",
-                        "url": "https://newt-com.github.io/void-distribution/mods/ZZ.JJThunder_To_The_Max_1.20.1_v0.2.0.jar"
-                    }
                 }
             ]
         }
