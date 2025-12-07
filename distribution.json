@@ -345,6 +345,16 @@
                         "MD5": "bdf895ec1261bbecb6c6e30df926a626",
                         "url": "https://newt-com.github.io/void-distribution/mods/PassableFoliage-1.20.1-fabric-8.2.1.jar"
                     }
+                },
+                {
+                    "id": "com.github.newt:Kiwi-1.20.1-Fabric-11.8.29",
+                    "name": "Kiwi",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1500158,
+                        "MD5": "1b73e55f96550feac0b4799fceff8aca",
+                        "url": "https://newt-com.github.io/void-distribution/mods/Kiwi-1.20.1-Fabric-11.8.29.jar"
+                    }
                 }
             ]
         }
