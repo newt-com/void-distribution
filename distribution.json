@@ -325,6 +325,26 @@
                         "MD5": "21cefdaa742e1f31ded4f85f55a0f41c",
                         "url": "https://newt-com.github.io/void-distribution/mods/indium-1.0.36+mc1.20.1.jar"
                     }
+                },
+                {
+                    "id": "com.github.newt:PresenceFootsteps-1.10.1+1.20.1",
+                    "name": "PresenceFootSteps",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 5664952,
+                        "MD5": "4d9d64890b7b90641ce6be7d0c9cd3c6",
+                        "url": "https://newt-com.github.io/void-distribution/mods/PresenceFootsteps-1.10.1+1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:PassableFoliage-1.20.1-fabric-8.2.1",
+                    "name": "PassableFoliage",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 33824,
+                        "MD5": "bdf895ec1261bbecb6c6e30df926a626",
+                        "url": "https://newt-com.github.io/void-distribution/mods/PassableFoliage-1.20.1-fabric-8.2.1.jar"
+                    }
                 }
             ]
         }
