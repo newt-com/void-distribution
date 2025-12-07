@@ -16,9 +16,6 @@
             "minecraftVersion": "1.20.1",
             "mainServer": true,
             "autoconnect": true,
-            "javaOptions": {
-                "suggestedMajor": 21
-            },
             "modules": [
                 {
                     "id": "net.fabricmc:fabric-loader:0.18.1",
