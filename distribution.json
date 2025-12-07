@@ -126,7 +126,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 53321921,
-                        "MD5": "3d81842857549a885ffceeb2114eed74",
+                        "MD5": "3d81842857549a885ffceeb2114eed75",
                         "url": "https://github.com/newt-com/void-distribution/releases/download/testing/Patrix_1.20_32x_basic.zip",
                         "path": "resourcepacks/Patrix_1.20_32x_basic"
                     }
