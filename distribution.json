@@ -121,56 +121,6 @@
                     }
                 },
                 {
-                    "id": "com.github.newt:-1.21.2 Fresh Moves v3.1 (With Animated Eyes)",
-                    "name": "Fresh Moves",
-                    "type": "File",
-                    "artifact": {
-                        "size": 321871,
-                        "MD5": "9425263fea042911f13a1482f4c3f436",
-                        "url": "https://drive.google.com/uc?id=11hbuiqMxceWPPBLelZzm4e14vp&export=download"
-                    }
-                },
-                {
-                    "id": "com.github.newt:Better Animals - Heycronus",
-                    "name": "Better Animals",
-                    "type": "File",
-                    "artifact": {
-                        "size": 459074,
-                        "MD5": "0acb9b2739fb4954eb32ddfd74437824",
-                        "url": "https://drive.google.com/uc?id=1t7USOQetW8VaCLcLgiKX1dFx2CoF6FvA&export=download"
-                    }
-                },
-                {
-                    "id": "com.github.newt:Enhanced Audio Ambience r1",
-                    "name": "Enhanced Audio Ambience",
-                    "type": "File",
-                    "artifact": {
-                        "size": 4134425,
-                        "MD5": "13a5d4cf2528c1f268053f93bc891185",
-                        "url": "https://drive.google.com/uc?id=1yHpARQIOEQHGSB6sSRWA9fwMomQZ56Pj&export=download"
-                    }
-                },
-                {
-                    "id": "com.github.newt:Enhanced Audio r6",
-                    "name": "Enhanced Audio",
-                    "type": "File",
-                    "artifact": {
-                        "size": 9307892,
-                        "MD5": "3cd819a6e6768b00a08c1cfb0a94147c",
-                        "url": "https://drive.google.com/uc?id=1BwYIN62C6q5hgXxUoVgJzX3SHuRVNJ&export=download"
-                    }
-                },
-                {
-                    "id": "com.github.newt:FreshAnimations_v1.10.2",
-                    "name": "Fresh Animations",
-                    "type": "File",
-                    "artifact": {
-                        "size": 834451,
-                        "MD5": "e32132024fbe765a7c90b30dd459d0bc",
-                        "url": "https://drive.google.com/uc?id=1XWeGJe0vo5fBC1GQcY6J4pAe6qQLu5ef&export=download"
-                    }
-                },
-                {
                     "id": "com.github.newt:Patrix_1.20_32x_basic",
                     "name": "Patrix 32x",
                     "type": "File",
