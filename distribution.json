@@ -154,6 +154,39 @@
                     }
                 },
                 {
+                    "id": "com.github.newt:Better Animals - Heycronus",
+                    "name": "Better Animals",
+                    "type": "File",
+                    "artifact": {
+                        "size": 459074,
+                        "MD5": "fa7a162d12d682f9db75dfdd7bbcf9a4bd708ac97f4088ca8bf986545663b1c6",
+                        "url": "https://github.com/newt-com/void-distribution/releases/download/testing/Better.Animals.-.Heycronus.zip",
+                        "path": "resourcepacks/BetterAnimals.zip"
+                    }
+                },
+                {
+                    "id": "com.github.newt:Enhanced Audio Ambience r1",
+                    "name": "Enhanced Audio Ambience",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4134425,
+                        "MD5": "6812dff0201325221f29f70855613b56044b53750719b10da753dc7b8b917a56",
+                        "url": "https://github.com/newt-com/void-distribution/releases/download/testing/Enhanced.Audio.Ambience.r1.zip",
+                        "path": "resourcepacks/EnhancedAudioAmbience.zip"
+                    }
+                },
+                {
+                    "id": "com.github.newt:Enhanced Audio r6",
+                    "name": "Enhanced Audio",
+                    "type": "File",
+                    "artifact": {
+                        "size": 9307892,
+                        "MD5": "884ec4f372070c91b0b9fe3526a803f13997c8f1b14dd64459ada40c834204ad",
+                        "url": "https://github.com/newt-com/void-distribution/releases/download/testing/Enhanced.Audio.r6.zip",
+                        "path": "resourcepacks/EnhancedAudio.zip"
+                    }
+                },
+                {
                     "id": "com.github.newt:fabric-api-0.92.6+1.20.1",
                     "name": "Fabric API",
                     "type": "FabricMod",
