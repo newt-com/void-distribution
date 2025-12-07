@@ -178,6 +178,36 @@
                         "MD5": "85f182bac71775e7ca47216f33523bc3",
                         "url": "https://newt-com.github.io/void-distribution/mods/GeckoLibIrisCompat-Fabric-1.0.0.jar"
                     }
+                },
+                {
+                    "id": "com.github.newt:sodium-fabric-0.5.13+mc1.20.1",
+                    "name": "Sodium",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 971552,
+                        "MD5": "76e0349865f91f315aae087a6e88a84a",
+                        "url": "https://newt-com.github.io/void-distribution/mods/sodium-fabric-0.5.13+mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:sodiumdynamiclights-fabric-1.0.10-1.20.1",
+                    "name": "Sodium Dynamic Lights",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 652650,
+                        "MD5": "a1b36ba87ada993c51fe5d38789d7504",
+                        "url": "https://newt-com.github.io/void-distribution/mods/sodiumdynamiclights-fabric-1.0.10-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "com.github.newt:sodiumextras-fabric-1.0.7-1.20.1",
+                    "name": "Sodium Extras",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 630468,
+                        "MD5": "2a4783798a52fe22c5f6476fc65c0ff1",
+                        "url": "https://newt-com.github.io/void-distribution/mods/sodiumextras-fabric-1.0.7-1.20.1.jar"
+                    }
                 }
             ]
         }
